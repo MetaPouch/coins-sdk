@@ -1,0 +1,22 @@
+{
+  "name": "coins-sdk",
+  "version": "0.0.1",
+  "description": "Coins SDK for cryptocurrency coins and tokens.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cryptocurrency",
+    "coins",
+    "info",
+    "crypto",
+    "tokens",
+    "info",
+    "crypto",
+    "tokens",
+    "sdk"
+  ],
+  "author": "Ajay Srinivas",
+  "license": "ISC"
+}
